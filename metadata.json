@@ -1,0 +1,8 @@
+{
+  "name": "Remix Star Flicker VR",
+  "description": "Catch falling stars in WebXR using motion-controlled gestures for your Pico VR headset.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
